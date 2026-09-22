@@ -10,6 +10,6 @@
                 echo "Hello " .$_GET['nome'] . "!";
             ?>
         </h1>
-        <p>Questa è la mia prima prova con php.</p>
+        <p>questa è la mia prima prova con php.</p>
     </body>
 </html>
